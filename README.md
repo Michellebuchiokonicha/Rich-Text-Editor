@@ -1,3 +1,5 @@
+This is a Document Text Editor that allows you create new documents and edit existing documents. You can edit the title as well as the content and can save temporarily. It is built with React.js and chakra-ui.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
