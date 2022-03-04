@@ -111,7 +111,6 @@ background: "gray.100",
 }}
 bgColor={active === document && "primary.main"}
 color={active === document && "white"}
-borderWidth="1px"
 onClick={() => handleList(document, index)}
 p={5}
 mt={2}
